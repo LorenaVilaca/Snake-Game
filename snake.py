@@ -4,8 +4,6 @@ from sys import exit
 from random import randint
 
 pygame.init()
-# musicsound = pygame.mixer.music.load('game-music.mp3')
-# pygame.mixer.music.play(-1) 
 
 width = 640
 height = 480
